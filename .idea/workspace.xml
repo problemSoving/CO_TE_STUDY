@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36e4e8c4-d5b2-43e1-9d9a-ed0c41dadf63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/Boj_2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_18108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_2588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hansol/baekjoon/Boj_2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_2557.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,30 +36,99 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oC5fNqojfl3epIn2N9t7chNUsv" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Boj_1000.executor": "Run",
+    "Application.Boj_1001.executor": "Run",
+    "Application.Boj_1008.executor": "Run",
+    "Application.Boj_10171.executor": "Run",
+    "Application.Boj_10172.executor": "Run",
+    "Application.Boj_10430.executor": "Run",
+    "Application.Boj_10869.executor": "Run",
+    "Application.Boj_10926.executor": "Run",
+    "Application.Boj_11382.executor": "Run",
+    "Application.Boj_18108.executor": "Run",
     "Application.Boj_2557.executor": "Run",
+    "Application.Boj_2588.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/intellij-workspace/CO_TE_STUDY"
+    "last_opened_file_path": "D:/intellij-workspace/CO_TE_STUDY",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Boj_2557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.Boj_2557" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="hansol.baekjoon.step.lv1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Boj_10172">
+    <configuration name="Boj_10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_10171" />
       <module name="CO_TE_STUDY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hansol.baekjoon.*" />
+          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj_10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_10172" />
+      <module name="CO_TE_STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_10430" />
+      <module name="CO_TE_STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj_11382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_11382" />
+      <module name="CO_TE_STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boj_2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_2588" />
+      <module name="CO_TE_STUDY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,7 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Boj_2557" />
+        <item itemvalue="Application.Boj_10172" />
+        <item itemvalue="Application.Boj_10171" />
+        <item itemvalue="Application.Boj_11382" />
+        <item itemvalue="Application.Boj_2588" />
+        <item itemvalue="Application.Boj_10430" />
       </list>
     </recent_temporary>
   </component>
