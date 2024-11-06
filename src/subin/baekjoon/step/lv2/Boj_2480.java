@@ -31,6 +31,8 @@ public class Boj_2480 {
                 System.out.println(10000 + a * 1000);
             } else if (a == b || b == c) {
                 System.out.println(1000 + b * 100);
+            } else {
+                System.out.println(1000 + c * 100);
             }
         }
     }

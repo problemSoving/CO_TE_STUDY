@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36e4e8c4-d5b2-43e1-9d9a-ed0c41dadf63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_2480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv2/Boj_9498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_2557.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10430.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_10869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_11382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_11382.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_18108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_18108.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subin/baekjoon/step/lv1/Boj_2588.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +29,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Boj_1000.executor": "Run",
-    "Application.Boj_1001.executor": "Run",
-    "Application.Boj_1008.executor": "Run",
-    "Application.Boj_10171.executor": "Run",
-    "Application.Boj_10172.executor": "Run",
-    "Application.Boj_10430.executor": "Run",
-    "Application.Boj_10869.executor": "Run",
-    "Application.Boj_10926.executor": "Run",
-    "Application.Boj_11382.executor": "Run",
-    "Application.Boj_18108.executor": "Run",
-    "Application.Boj_2525.executor": "Run",
-    "Application.Boj_2557.executor": "Run",
-    "Application.Boj_2588.executor": "Run",
-    "Application.Boj_2884.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/intellij-workspace/CO_TE_STUDY",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Boj_1000.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_1001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_1008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_10171.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_10172.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_10430.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_10869.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_10926.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_11382.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_18108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_2525.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_2557.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_2588.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boj_2884.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/intellij-workspace/CO_TE_STUDY&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="hansol.baekjoon.step.lv1" />
@@ -159,5 +144,16 @@
       <updated>1730360819293</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
