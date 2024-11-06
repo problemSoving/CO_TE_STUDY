@@ -19,11 +19,8 @@ public class Boj_25304 {
             total -= price*cnt;
 
         }
-
         if(total==0) System.out.println("Yes");
         else System.out.println("No");
-
-
         br.close();
     }
 
