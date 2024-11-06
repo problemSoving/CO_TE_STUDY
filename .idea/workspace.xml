@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36e4e8c4-d5b2-43e1-9d9a-ed0c41dadf63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_25304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_25314.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv3/Boj_8393.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/step/lv2/Boj_2480.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/step/lv2/Boj_2480.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +66,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intellij-workspace\CO_TE_STUDY" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="hansol.baekjoon.step.lv1" />
     </key>
