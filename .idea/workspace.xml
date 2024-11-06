@@ -5,21 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36e4e8c4-d5b2-43e1-9d9a-ed0c41dadf63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_10998.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_11382.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_2588.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_2525.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_2884.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv2/Boj_9498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hansol/baekjoon/Boj_2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hansol/baekjoon/step/lv1/Boj_2557.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_1001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_10171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_10172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_10430.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_10869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_10926.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_10998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_11382.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_18108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_2557.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CO_TE_STUDY/hansol/baekjoon/Boj_2588.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +60,14 @@
     "Application.Boj_10869.executor": "Run",
     "Application.Boj_10926.executor": "Run",
     "Application.Boj_11382.executor": "Run",
+    "Application.Boj_1330.executor": "Run",
     "Application.Boj_18108.executor": "Run",
+    "Application.Boj_2480.executor": "Run",
+    "Application.Boj_2525.executor": "Run",
     "Application.Boj_2557.executor": "Run",
     "Application.Boj_2588.executor": "Run",
+    "Application.Boj_2753.executor": "Run",
+    "Application.Boj_2884.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -69,14 +80,17 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="hansol.baekjoon.step.lv1" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hansol.baekjoon.step.lv2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Boj_10172">
-    <configuration name="Boj_10171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_10171" />
+  <component name="RunManager" selected="Application.Boj_2480">
+    <configuration name="Boj_1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv2.Boj_1330" />
       <module name="CO_TE_STUDY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="PATTERN" value="hansol.baekjoon.step.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj_10172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_10172" />
+    <configuration name="Boj_2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv2.Boj_2480" />
       <module name="CO_TE_STUDY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="PATTERN" value="hansol.baekjoon.step.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj_10430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_10430" />
+    <configuration name="Boj_2525" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv2.Boj_2525" />
       <module name="CO_TE_STUDY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="PATTERN" value="hansol.baekjoon.step.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj_11382" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_11382" />
+    <configuration name="Boj_2753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv2.Boj_2753" />
       <module name="CO_TE_STUDY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="PATTERN" value="hansol.baekjoon.step.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Boj_2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv1.Boj_2588" />
+    <configuration name="Boj_2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hansol.baekjoon.step.lv2.Boj_2884" />
       <module name="CO_TE_STUDY" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hansol.baekjoon.step.lv1.*" />
+          <option name="PATTERN" value="hansol.baekjoon.step.lv2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Boj_10172" />
-        <item itemvalue="Application.Boj_10171" />
-        <item itemvalue="Application.Boj_11382" />
-        <item itemvalue="Application.Boj_2588" />
-        <item itemvalue="Application.Boj_10430" />
+        <item itemvalue="Application.Boj_2480" />
+        <item itemvalue="Application.Boj_2525" />
+        <item itemvalue="Application.Boj_2884" />
+        <item itemvalue="Application.Boj_2753" />
+        <item itemvalue="Application.Boj_1330" />
       </list>
     </recent_temporary>
   </component>
