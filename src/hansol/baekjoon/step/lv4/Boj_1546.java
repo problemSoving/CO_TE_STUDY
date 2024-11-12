@@ -21,7 +21,6 @@ public class Boj_1546 {
             if (max<mArr[i]) max=mArr[i];
         }
 
-
         //새로운 평균
         float total=0f;
         for (int i =0; i<mArr.length ; i++){
