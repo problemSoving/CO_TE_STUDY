@@ -11,8 +11,7 @@ public class Boj_1406 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line1 = br.readLine();
         int cnt = Integer.parseInt(br.readLine());
-
-
+        
         //첫째줄 셋팅
         Stack<Character> left = new Stack<>();
         Stack<Character> right = new Stack<>();
