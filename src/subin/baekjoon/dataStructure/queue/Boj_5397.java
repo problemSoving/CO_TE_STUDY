@@ -14,38 +14,39 @@ public class Boj_5397 {
         for (int i = 0; i < testCase; i++) {
             String input = br.readLine();
 
-            // 커서 기준 왼쪽
             Stack<Character> front = new Stack<>();
-            // 커서 기준 오른쪽
             Stack<Character> back = new Stack<>();
 
             for (int j = 0; j < input.length(); j++) {
-                if(input.charAt(j) == '<'){
-                    if(front.size() == 0){
+                char a = input.charAt(j);
+
+                if (a == '<') {
+                    if (front.empty()) {
                         continue;
                     }
                     back.push(front.pop());
-                } else if(input.charAt(j) == '>'){
-                    if(back.size() == 0){
+                } else if (a == '>') {
+                    if (back.empty()) {
                         continue;
-                    } front.push(back.pop());
-                } else if(input.charAt(j) == '-'){
-                    if(front.size() == 0){
+                    }
+                    front.push(back.pop());
+                } else if (a == '-') {
+                    if (front.empty()) {
                         continue;
-                    }front.pop();
+                    }
+                    front.pop();
                 } else {
-                    front.push(input.charAt(j));
+                    front.push(a);
                 }
             }
 
-            while(!front.empty()){
+            while (!front.empty()) {
                 back.push(front.pop());
             }
-            while(!back.empty()){
+            while (!back.empty()) {
                 sb.append(back.pop());
             }
             sb.append("\n");
-
         }
         System.out.println(sb);
     }
