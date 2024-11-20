@@ -34,6 +34,7 @@ public class Boj_1406 {
             }
         }
 
+
         StringBuilder sb = new StringBuilder();
         while (!left.empty()) right.push(left.pop());
         while (!right.empty()) sb.append(right.pop());
