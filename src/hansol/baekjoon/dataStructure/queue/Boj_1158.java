@@ -16,6 +16,7 @@ public class Boj_1158 {
         List<Integer> numCircle = new LinkedList<>();
         for (int i=0;i<n;i++) numCircle.add(i,i+1);
 
+
         StringBuilder sb = new StringBuilder();
 
         int nowIndex=-1;
