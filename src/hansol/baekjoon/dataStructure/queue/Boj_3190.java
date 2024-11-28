@@ -82,6 +82,7 @@ public class Boj_3190 {
                 y--;
             }
 
+
             time++;
             if (x < 0 || y < 0 || x > n - 1 || y > n - 1 || stage[x][y] == 1) {
                 isLife = false;
